@@ -1,0 +1,6 @@
+[
+  { "name": "1-combat.png", "query": "?shot=combat&seed=1" },
+  { "name": "2-buy.png", "query": "?shot=buy&seed=1" },
+  { "name": "3-planted.png", "query": "?shot=planted&seed=1" },
+  { "name": "4-overview.png", "query": "?shot=overview&seed=1" }
+]
